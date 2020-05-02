@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHNI0KHypRnnId+TagW6KJdUFkXk0R+K9jamogNOWUHxM//QtpvwFD+RP/plOxaRaCS27dIt8lGN4996+WQOXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\source\\repos\\H6\\H6\\H6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\nlog\\4.7.0\\nlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\nlog.config\\4.7.0\\nlog.config.4.7.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\nlog.schema\\4.7.0\\nlog.schema.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
